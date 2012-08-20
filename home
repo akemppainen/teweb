@@ -1,11 +1,19 @@
 <html>
 	<head>
+		<link rel="stylesheet" href="/home/akemppainen/rails/teweb/style.css" type="text/css" >
 	</head>
 
 	<body>
-		<h1>TimberExpress</h1>
-		<h2>You have the latest and greatest in chainsaws!  Please don't make your office staff too jealous!</h2>
-		<p>I like pie.  So does Michael.</p>
-		<a href="http://www.timberexpress.net" target="_blank">Check it out, mate!</a>
+		<img src="/home/akemppainen/rails/teweb/images/logo.png" /><button type="button" href="http://www.google.com" align="absmiddle"><a href="http://www.google.com">Log In</a></button>
+		<hr>
+	</br>
+		<h2>MANAGE timber sales.  TRACK tickets and payments. MAKE money.  PARTY.
+		<p><a href="http://www.silvertreksystems.com">We</a> built a program for you!  <a href="http://www.timberexpress.net" target="_blank">Check it out, mate!</a></p>
+		<img align="center" src="/home/akemppainen/rails/teweb/images/te3.png" />
+		<blockquote class="rectangle-speech-border">
+			<p>This is me talking.  Michael isn't here yet, so I'm loving the spotlight while I can.</p>
+		</blockquote>
+		<img src="/home/akemppainen/rails/teweb/images/alex.jpg" width="96" height="128" />
+
 	</body> 
 </html>
